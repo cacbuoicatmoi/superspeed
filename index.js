@@ -101,3 +101,4 @@ bot.on("error", (err) => {
 bot.on("kicked", (reason) => {
   console.log("👢 Bot bị kick:", reason);
 });
+npm install mineflayer mineflayer-pathfinder express
